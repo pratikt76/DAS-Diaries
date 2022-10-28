@@ -16,3 +16,8 @@
 
 4. Sorting
    - Selection
+
+Note :-
+
+Lecture No: 10, Lecture No: 15 is still not done.
+Revise All Questions on Once Phase 1 is Done

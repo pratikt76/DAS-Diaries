@@ -16,6 +16,7 @@
 
 4. Sorting
    - Selection
+   - Bubble
 
 Note :-
 

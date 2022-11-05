@@ -1,4 +1,4 @@
-# Topics That are coverd:
+# Topics That are Done:
 
 1. C++ basic
 
@@ -15,12 +15,12 @@
    - Binary
 
 4. Sorting
+
    - Selection
    - Bubble
    - Insertion
 
 5. STL For C++
-
 
 Note :-
 

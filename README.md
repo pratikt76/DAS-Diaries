@@ -17,6 +17,10 @@
 4. Sorting
    - Selection
    - Bubble
+   - Insertion
+
+5. STL For C++
+
 
 Note :-
 

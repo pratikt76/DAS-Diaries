@@ -21,6 +21,9 @@
    - Insertion
 
 5. STL For C++
+   - Array
+   - Vector
+   - Deque
 
 Note :-
 

@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+using namespace std;
 
 // Note to myself - showing error becz the o/p does not want empty string
 

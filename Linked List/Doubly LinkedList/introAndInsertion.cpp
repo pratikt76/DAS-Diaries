@@ -110,9 +110,9 @@ void insertAtPosition(Node *&head, Node *&tail, int position, int d)
 
 int main()
 {
-  // Node *node1 = new Node(12);
-  Node *head = NULL;
-  Node *tail = NULL;
+  Node *node1 = new Node(12);
+  Node *head = node1;
+  Node *tail = node1;
 
   // Traverse the Doubly LL
   llprint(head);
